@@ -1,0 +1,9 @@
+.App{
+   
+        /* background-image: url(''); */
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 100vh; /* 设置背景图片的高度 */
+        width: 100%; /* 设置背景图片的宽度 */
+}
